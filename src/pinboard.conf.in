@@ -1,0 +1,12 @@
+[Addon]
+Name=Pinboard
+Comment=Clipboard history with pinning
+Type=SharedLibrary
+Library=libpinboard
+Category=Module
+Version=@PROJECT_VERSION@
+OnDemand=False
+Configurable=False
+
+[Addon/Dependencies]
+0=clipboard

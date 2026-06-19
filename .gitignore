@@ -1,0 +1,19 @@
+# Build output
+/build/
+build/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# Editor / IDE
+.cache/
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
